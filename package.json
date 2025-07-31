@@ -1,0 +1,15 @@
+{
+  "name": "vibly-backend",
+  "version": "1.0.0",
+  "description": "Backend for Vibly video and livestream app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3"
+  }
+}
